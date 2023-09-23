@@ -40,7 +40,7 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
     *GENERAL OVERVIEW*
 
 <p>
-<img src="https://i.imgur.com/7K4yFoC.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tEhuwvw.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -53,7 +53,7 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
 <br />
 
 <p>
-<img src="https://i.imgur.com/Zjk62dw.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a4uhpEU.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -66,7 +66,7 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
 <br />
 
 <p>
-<img src="https://i.imgur.com/mpQi1uF.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/frQYvUS.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -77,7 +77,7 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
 3. Name: Level II Support > Members > Add any agent
 
 <p>
-<img src="https://i.imgur.com/Xbk86sv.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fLQUUOM.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -87,7 +87,7 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
 2. Registration Required: Require registration and login to create tickets (can or uncheck the box)
 
 <p>
-<img src="https://i.imgur.com/TSR6JwQ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1v90xFD.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -98,7 +98,7 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
 3. Name: John Doe > Email Address: John.Doe@osticket.com > Username: John.Doe > Password: Password1 > Set
 
 <p>
-<img src="https://i.imgur.com/yiL4ZeG.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VDUPeiO.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -109,12 +109,12 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
 3. Email Address:Ken@osticket.com > Full Name: Ken Ken
 
 <p>
-<img src="https://i.imgur.com/6iyQpSy.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8EyKljs.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/BCmI3YM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cin8iMs.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -126,7 +126,7 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
 4. Sev-C (8 hours, business hours)
 
 <p>
-<img src="https://i.imgur.com/PjsXn0e.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pDIVINT.jpg height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
